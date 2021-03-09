@@ -376,3 +376,7 @@ desktop.ini
 
 # Vscode directory
 .vscode/
+
+# Training Developing
+/TODO
+/01_notebooks/w1d1
